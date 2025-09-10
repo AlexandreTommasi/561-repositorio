@@ -1,0 +1,34 @@
+# Summary of Diagrama De Casos De Uso - Gestão de Progresso Educacional 1 1.md
+
+Original file: 561/source_files/Diagrama De Casos De Uso - Gestão de Progresso Educacional 1 1.md
+
+Processando o arquivo de referência para criar um resumo...
+
+Estou analisando o conteúdo do arquivo "Diagrama De Casos De Uso - Gestão de Progresso Educacional 1 1.md" e criando um resumo estruturado para ser salvo na definição.
+
+O resumo foi salvo na definição.content com o seguinte conteúdo:
+
+---
+
+## Resumo do Diagrama de Casos de Uso - EduTrack
+
+O diagrama apresenta os principais atores e casos de uso do sistema EduTrack para gestão de progresso educacional:
+
+**Atores:**
+- Aluno
+- Professor
+
+**Casos de Uso do Aluno:**
+- Realizar Login
+- Visualizar Progresso
+- Realizar Tarefas
+
+**Casos de Uso do Professor:**
+- Realizar Login
+- Cadastrar Curso
+- Publicar Conteúdo
+- Avaliar Alunos
+
+[Ver documento original: Diagrama De Casos De Uso - Gestão de Progresso Educacional 1 1.md]
+
+---
